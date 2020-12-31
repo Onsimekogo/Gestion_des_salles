@@ -1,0 +1,206 @@
+
+#head { background:#181015 url( ../img/UACBatiment.png) no-repeat; background-size: cover; min-height:520px; text-align: center; padding-top:240px; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; }
+#head.secondary { height:100px; min-height: 100px; padding-top:0px; }
+	#head .lead { font-family:"Open sans", Helvetica, Arial; font-size:44px; margin-bottom:6px; color:white; line-height:1.15em; } 
+	#head .tagline { color:rgba(255,255,255,0.75); margin-bottom:25px; }
+		#head .tagline a { color:#fff; } 
+	#head .btn { margin-bottom:10px;}
+	#head .btn-default { text-shadow: none; background:transparent; color:rgba(255,255,255,.5); -webkit-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); -moz-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); background: transparent; }
+		#head .btn-default:hover,
+		#head .btn-default:focus { color:rgba(255,255,255,.8); -webkit-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); -moz-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); background: transparent; }
+		#head .btn-default:active, 
+		#head .btn-default.active { color:#fff; -webkit-box-shadow:inset 0px 0px 0px 3px #fff; -moz-box-shadow:inset 0px 0px 0px 3px #fff; box-shadow:inset 0px 0px 0px 3px #fff; background: transparent; }
+@media (max-width: 767px) {
+	#head { min-height:420px; padding-top:160px; }
+	#head .lead { font-size: 34px; }
+}
+
+
+.footer2 { background: #191919; padding: 15px 0; color: #777; font-size: 16px; }
+	.footer2 a { color: #aaa; }
+		.footer2 a:hover { color: #fff; }
+		.footer2 p { margin: 0; }
+
+	.widget-simplenav { margin-left:-5px; }		
+	.widget-simplenav a{ margin:0 5px; }		
+body
+{
+	background-color: white;
+	overflow-x: hidden;
+}
+
+nav ul
+{
+	list-style-type: none;
+	text-align: center;
+	padding-top: 10px;
+
+}
+
+.Pinsti
+{
+	text-align: center;
+}
+.img, .img2
+{
+	width: 25px;
+	height: 25px;
+	
+
+}
+.img2
+{
+	position: absolute;
+	right: 10px;
+}
+.img
+{
+	position: absolute;
+	right: 50px;
+}
+.img1
+{
+	width: 100%;
+	height: auto;
+}
+
+ul p
+{
+	position: absolute;
+	left: 10px;
+	color: white;
+
+}
+/* .souligner
+{
+    
+} */
+/* li a
+{
+	color: white;
+} */
+/* nav li
+{
+	display: inline-block;
+	color: white; 
+} */
+.navbar-header
+{
+	height: 50px;
+	background-color: purple;
+
+	
+}
+.dic
+{
+	display: inline;
+}
+
+.insti
+{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+}
+.P
+{
+	color: orange
+
+}
+.D, .i, .C
+{
+	color:purple;
+}
+.Ppdic
+{
+	text-align: center;
+}
+.gestion
+{
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.gestionInverse
+{
+	display: flex;
+	flex-direction: row-reverse;
+}
+/* .services
+{
+	text-align: center;
+}
+.Pheader
+{
+	position: relative;
+	top: 220px;
+	left: 20px;
+
+} */
+
+
+/* .bodyDiv{
+	padding-bottom: 100px;
+} */
+
+
+/* .approche
+{
+	display: flex;
+	flex-direction:row;
+	justify-content: space-around; 
+}
+.notreapproche
+{
+	text-align: center;
+}
+h3
+{
+	text-align: center;
+	padding-top: 50px;
+} */
+/* .divApproche
+{
+	width: 300px;
+	height: 150px;
+	background-color: blue;
+	color: white;
+
+}
+.divApproche1
+{
+	width: 300px;
+	height: 150px;
+	background-color: purple;
+	color: white;
+}
+.divApproche2
+{
+	width: 300px;
+	height: 150px;
+	background-color: rgb(211, 77, 29);
+	color: white;
+}
+.divapproche p
+{
+	font-size: 8px;
+	text-align: center;
+	margin-top: 40px;
+	height: 28px;
+	background-color: rgba(0,0,0, 0.25);
+	padding-top: 8px;
+	
+} */
+
+
+ 
+
+
+ .footer2
+{
+	height: 100px;
+}
+.footer2 .container
+{
+	padding-top: 30px;
+} 
+ 
